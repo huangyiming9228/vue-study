@@ -17,5 +17,4 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+总结：熟悉了vue中的基本操作指令如v-for、v-bind、v-on等，以及vue的数据双向绑定，了解了组件之间的通讯机制，父组件向子组件通讯使用props，子组件向父组件通讯使用emit。

@@ -17,5 +17,4 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+总结：熟悉了vue中:style的动态绑定，了解了loading的制作原理以及相关的css动画如animation、transform等。
